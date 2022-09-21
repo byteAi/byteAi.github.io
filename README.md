@@ -1,2 +1,1 @@
-# byteAi.github.io
-web 
+# Hello Byte AI
