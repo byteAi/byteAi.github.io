@@ -1,3 +1,3 @@
 # Hello Byte AI
 
-![unsplash](https://unsplash.com)
+[unsplash](https://unsplash.com)
